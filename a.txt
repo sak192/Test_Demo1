@@ -6,6 +6,7 @@ b makes changes
 >>>>>>> 6469bb4a3a6a476a797a35d6aa5df364f595df9a
 <<<<<<< HEAD
 aaa
+<<<<<<< HEAD
 =======
 =======
 b makes changes
@@ -14,3 +15,6 @@ bbb
 >>>>>>> 0d909dd (bbb)
 >>>>>>> 047c069 (123)
 aaabbb
+=======
+hello
+>>>>>>> 8f8338d (111)
